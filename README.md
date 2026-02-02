@@ -29,4 +29,4 @@ unscrambleCode("bGV0IHR4dD0iPGRpdiBpZD0nZHJvcENvZGUnIGRhdGEtc2V0MT0nY29udHJvbEJ0
 </body>
 </html>
 
-<br><br> This is very useful for me and I hope you find it to be as useful! Thank you!
+<br><br> This is very useful for me and I hope you find it to be as useful! Thank you and have a great day!
