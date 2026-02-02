@@ -4,7 +4,7 @@
 
 <br><br>
 
-The script below will add a button to your page where you can then drop HTML content to the page. Content will be rendered.<br><br>
+The script below will add a button to your page where you can then drop HTML content to the page. Contents will then be rendered.<br><br>
 
 <html>
 <head></head>
